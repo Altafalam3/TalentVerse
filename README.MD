@@ -1,4 +1,4 @@
-# Blog Application - Tech-Talent Network
+# Blog Application - TalentVerse
 • Tech stack used : J2EE | SpringBoot | Spring DataJPA | RestFul API | Spring Security | Maven | Mysql
 <br>
 • Performed integration testing to evaluate the seamless integration of various modules within the application.
